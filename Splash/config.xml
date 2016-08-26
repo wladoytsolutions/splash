@@ -56,7 +56,7 @@
   <icon src="www/res/icon/windows-phone/icon-173-tile.png" gap:platform="winphone" gap:role="background"/>
   <access origin="*"/>
   <plugin name="cordova-plugin-whitelist" version="1"/>
-  <plugin spec="https://github.com/apache/cordova-plugin-splashscreen.git" />
+  <plugin name="cordova-plugin-splashscreen" />
   <allow-intent href="http://*/*"/>
   <allow-intent href="https://*/*"/>
   <allow-intent href="tel:*"/>
